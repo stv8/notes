@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "8f00f543d136452c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a683175237900da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/PostgreSQL/High Level Performance Anlysis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1bf403a02863d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e7f6cfcb9edc3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188deb0444f3a1fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fc0d687a00f8381",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e14a66247af84c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e03427f059e5dad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b99879e1ca390b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33212c717288fde2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/PostgreSQL/High Level Performance Anlysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99ef27273b09956e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/PostgreSQL/High Level Performance Anlysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "648aafe803e1040d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "003087d08334a1ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/PostgreSQL/High Level Performance Anlysis.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a683175237900da",
+  "lastOpenFiles": [
+    "docs/PostgreSQL/index.md",
+    "docs/PostgreSQL/High Level Performance Anlysis.md",
+    "assets/cache-hit-formula.png.md",
+    "docs/assets/cache-hit-formula.png",
+    "docs/PostgreSQL/assets/cache-hit-formula.png",
+    "docs/assets/cache-hit-formula.png.png",
+    "docs/index.md",
+    "docs/PostgreSQL/i-love-postgres.md"
+  ]
+}
