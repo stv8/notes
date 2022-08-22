@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Python/index.md",
+            "file": "docs/Databases/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Python/index.md",
+                "file": "docs/Databases/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Python/index.md",
+                "file": "docs/Databases/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Python/index.md"
+                "file": "docs/Databases/index.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "3a683175237900da",
   "lastOpenFiles": [
+    "docs/Python/index.md",
     "docs/index.md",
     "docs/Databases/PostgreSQL/High Level Performance Anlysis.md",
     "docs/Databases/index.md",
