@@ -2,7 +2,7 @@
 
 ### DB Technologies
 - [Apache Druid](https://druid.apache.org/) (Analytics OLAP)
-- [Surreal DB](https://surrealdb.com/) (Graph DB "NextSQL")
+- [Surreal DB](https://surrealdb.com/) (Graph DB "NextSQL") [HN](https://news.ycombinator.com/item?id=32550543)
 
 ### Postgres
 - [Why does Neon use Paxos instead of Raft, and what’s the difference?](https://neon.tech/blog/paxos/)
