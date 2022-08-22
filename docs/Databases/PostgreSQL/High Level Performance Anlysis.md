@@ -6,7 +6,7 @@ Borrowed from: [Cruncy Data](https://www.crunchydata.com/developers/playground/h
 Postgres generally tries to keep the data you access most often in the cache. Cache hit ratio measures how many content requests a cache is able to handle compared to how many requests it receives. A cache hit is a request that is successfully handled and a miss is one that is not. A miss will go beyond the cache to the base machine to fulfill the request.
 
 
-![Cache Hit](../assets/cache-hit-formula.png)
+![Cache Hit](../../assets/cache-hit-formula.png)
 
 So if you have 100 cache hits and 2 misses, you’ll have a cache hit ratio of 100/102 which equals 98%.
 
