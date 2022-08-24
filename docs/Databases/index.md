@@ -12,4 +12,8 @@
 - [Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal)](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
 
 ### ACID
+- [Jepsen: Distributed Systems Safety Research](https://jepsen.io/)
 - [Overview of Consistency Levels in Database Systems](https://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html)
+
+### Misc
+- [What's the big deal about embedded key-value databases like RocksDB?](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
