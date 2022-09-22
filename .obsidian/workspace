@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Software Tools/yt-dlp/index.md",
+            "file": "docs/Software Platforms/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Software Tools/yt-dlp/index.md",
+                "file": "docs/Software Platforms/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Software Tools/yt-dlp/index.md",
+                "file": "docs/Software Platforms/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Software Tools/yt-dlp/index.md"
+                "file": "docs/Software Platforms/index.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "3a683175237900da",
   "lastOpenFiles": [
-    "docs/Databases/index.md",
-    "docs/Python/index.md",
     "docs/index.md",
+    "docs/Software Tools/yt-dlp/index.md",
+    "README.md",
     "docs/Databases/PostgreSQL/High Level Performance Anlysis.md",
     "assets/cache-hit-formula.png.md",
     "docs/assets/cache-hit-formula.png",
