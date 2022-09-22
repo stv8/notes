@@ -17,3 +17,4 @@
 
 ### Misc
 - [What's the big deal about embedded key-value databases like RocksDB?](https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html)
+- [Log Structured Merge Trees   ](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)

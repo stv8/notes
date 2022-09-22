@@ -130,15 +130,14 @@
   },
   "active": "3a683175237900da",
   "lastOpenFiles": [
-    "README.md",
-    "docs/Software Tools/yt-dlp/index.md",
+    "docs/Databases/index.md",
+    "docs/Python/index.md",
+    "docs/index.md",
     "docs/Databases/PostgreSQL/High Level Performance Anlysis.md",
-    "docs/Databases/PostgreSQL/index.md",
     "assets/cache-hit-formula.png.md",
     "docs/assets/cache-hit-formula.png",
     "docs/PostgreSQL/assets/cache-hit-formula.png",
     "docs/assets/cache-hit-formula.png.png",
-    "docs/index.md",
     "docs/PostgreSQL/i-love-postgres.md"
   ]
 }
