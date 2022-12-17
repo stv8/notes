@@ -10,6 +10,8 @@
 ### SQLite
 - [Turning SQLite into a distributed database](https://univalence.me/posts/mvsqlite)
 - [Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal)](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
+- [SQLite, Past Present & Future](https://news.ycombinator.com/item?id=32675861)
+- [How SQLite Helps You Do ACID](https://fly.io/blog/sqlite-internals-rollback-journal/)
 
 ### ACID
 - [Jepsen: Distributed Systems Safety Research](https://jepsen.io/)
