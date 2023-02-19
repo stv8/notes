@@ -1,17 +1,6 @@
-# Home
+# SV's Programming Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to my Programming notes site, it contains miscellaneous links and helpful snippets about miscellaneous programing technologies.
 
-## Commands
+It's purpose is to be a quick reference as well as a place for web links to live so they can escape the void that is my browser's bookmark folder.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
