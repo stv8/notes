@@ -1,4 +1,4 @@
-# SV's Programming Notes
+# Home
 
 Welcome to my Programming notes site, it contains miscellaneous links and helpful snippets about miscellaneous programing technologies.
 
