@@ -1,6 +1,5 @@
 # Home
 
-Welcome to my Programming notes site, it contains miscellaneous links and helpful snippets about miscellaneous programing technologies.
+Welcome to my Programming notes site! Here I keep track of miscellaneous links, helpful snippets, and info about various technologies related to programming.
 
-It's purpose is to be a quick reference as well as a place for web links to live so they can escape the void that is my browser's bookmark folder.
-
+Its main purpose is to serve as a quick reference as well as a place for links to live so they can escape the void that is my browser's bookmark folder.
