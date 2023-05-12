@@ -1,4 +1,4 @@
-# Home
+# My Programming Notes
 
 Welcome to my Programming notes site! Here I keep track of miscellaneous links, helpful snippets, and info about various technologies related to programming.
 

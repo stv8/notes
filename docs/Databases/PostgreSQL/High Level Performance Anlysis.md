@@ -5,7 +5,6 @@ Borrowed from: [Cruncy Data](https://www.crunchydata.com/developers/playground/h
 
 Postgres generally tries to keep the data you access most often in the cache. Cache hit ratio measures how many content requests a cache is able to handle compared to how many requests it receives. A cache hit is a request that is successfully handled and a miss is one that is not. A miss will go beyond the cache to the base machine to fulfill the request.
 
-
 ![Cache Hit](../../assets/cache-hit-formula.png)
 
 So if you have 100 cache hits and 2 misses, you’ll have a cache hit ratio of 100/102 which equals 98%.
@@ -13,11 +12,11 @@ So if you have 100 cache hits and 2 misses, you’ll have a cache hit ratio of 1
 Find your cache hit with:
 
 ```sql
-SELECT 
+SELECT
   sum(heap_blks_read) as heap_read,
   sum(heap_blks_hit)  as heap_hit,
   sum(heap_blks_hit) / (sum(heap_blks_hit) + sum(heap_blks_read)) as ratio
-FROM 
+FROM
   pg_statio_user_tables;
 ```
 
@@ -48,19 +47,19 @@ In general, you are looking for 99%+ on tables larger than 10,000 rows. If you s
 
 A couple notes about creating indexes:
 
--   `CREATE INDEX CONCURRENTLY` will allow you to build your index in the background and not hold a lock on your table
--   `maintenance_work_mem` specifies how much memory is used for creating indexes and other background work like vacuum. The default value is 64 MB. Consider setting this higher when creating large indexes in the background.
+- `CREATE INDEX CONCURRENTLY` will allow you to build your index in the background and not hold a lock on your table
+- `maintenance_work_mem` specifies how much memory is used for creating indexes and other background work like vacuum. The default value is 64 MB. Consider setting this higher when creating large indexes in the background.
 
 ## Index Cache Hit Rate
 
 If you’re interested in how many of your indexes are within your cache you can run:
 
 ```sql
-SELECT 
+SELECT
   sum(idx_blks_read) as idx_read,
   sum(idx_blks_hit)  as idx_hit,
   (sum(idx_blks_hit) - sum(idx_blks_read)) / sum(idx_blks_hit) as ratio
-FROM 
+FROM
   pg_statio_user_indexes;
 ```
 

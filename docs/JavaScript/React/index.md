@@ -1,4 +1,4 @@
-# Some nifty React links
+# React
 
 ## Component Libraries
 
