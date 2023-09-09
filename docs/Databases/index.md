@@ -45,4 +45,3 @@
 - [Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
 - [SQL Style Guide](https://github.com/mattm/sql-style-guide)
 - [Build your own disk based KV store in Go](https://github.com/avinassh/go-caskdb)
-
