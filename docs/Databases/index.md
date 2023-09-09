@@ -1,6 +1,5 @@
 # Databases
 
-
 ## DB Technologies
 
 - [Apache Druid](https://druid.apache.org/) (Analytics OLAP)
@@ -28,6 +27,13 @@
 
 - [Jepsen: Distributed Systems Safety Research](https://jepsen.io/)
 - [Overview of Consistency Levels in Database Systems](https://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html)
+
+### ACID Series By Brandur
+
+- [ACID](https://brandur.org/acid)
+- [HTTP Transactions](https://brandur.org/http-transactions)
+- [Job Drain](https://brandur.org/job-drain)
+- [Idempotency Keys](https://brandur.org/idempotency-keys)
 
 ## Migrations
 
