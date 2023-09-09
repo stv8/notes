@@ -17,4 +17,6 @@ A collection of (mostly) programming blogs that I have stumbled across and have 
 - https://sive.rs
 - https://quakkels.com
 - https://tonsky.me
-- https://brooker.co.za/blog/
+- https://brooker.co.za/blog
+- https://protesilaos.com
+- https://www.benkuhn.net
