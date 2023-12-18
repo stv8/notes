@@ -14,6 +14,8 @@
 - [Why does Neon use Paxos instead of Raft, and what’s the difference?](https://neon.tech/blog/paxos/)
 - [Postgres Internals](https://www.interdb.jp/pg/)
 - [Postgres Tips](https://www.crunchydata.com/postgres-tips)- [9 Ways to Shoot Yourself in the Foot with Postgres](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
+- [Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
+- [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 
 ## SQLite
 
@@ -45,3 +47,4 @@
 - [Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
 - [SQL Style Guide](https://github.com/mattm/sql-style-guide)
 - [Build your own disk based KV store in Go](https://github.com/avinassh/go-caskdb)
+- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
