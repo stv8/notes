@@ -26,3 +26,11 @@
 
 - [`<Profiler>` Docs](https://react.dev/reference/react/Profiler)
 - [Debugging React applications with the React Profiler API and the Profiler DevTool](https://blog.logrocket.com/debugging-react-applications-with-the-react-profiler-api-and-the-profiler-devtool/)
+
+## `Context`
+
+- [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+
+## `TS with React`
+
+- [TS React CheatSheet](https://react-typescript-cheatsheet.netlify.app/)
